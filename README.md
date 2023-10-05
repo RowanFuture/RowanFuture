@@ -9,6 +9,9 @@ A full pc/Steam port of a web game I made, with multiplayer.
 - Driftwave,
 A mobile/web one-button driving/drifting game.
 
+2 successful merges (small fixes) to public-source projects:
+- [GameMaker HTML](https://github.com/YoYoGames/GameMaker-HTML5/pull/231)
+- [Aseprite](https://github.com/aseprite/aseprite/pull/4087)
 <!--
 **RowanFuture/RowanFuture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
