@@ -2,10 +2,10 @@
 
 | [rowan.games](https://rowan.games/) | [Twitter](https://twitter.com/RowanFuture/) | [YouTube](https://youtube.com/RowanFuture/) |
 
-# Main Personal Project 
+### Main Personal Project 
 - Starline Horizon
 A full pc/Steam port of a web game I made, with multiplayer.
-# Secondary Personal Project(s)
+### Secondary Personal Project(s)
 - Driftwave
 A mobile/web one-button driving/drifting game.
 
