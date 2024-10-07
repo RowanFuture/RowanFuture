@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-| [rowan.games](https://rowan.games/) | [Twitter](https://twitter.com/RowanFuture/) | [YouTube](https://youtube.com/RowanFuture/) |
+| [rowan.games](https://rowan.games/) | [Itch.io](https://rowanfuture.itch.io/) | [Twitter](https://twitter.com/RowanFuture/) | [YouTube](https://youtube.com/RowanFuture/) |
 
 Contributions to public-source projects:
 - [GameMaker HTML](https://github.com/YoYoGames/GameMaker-HTML5/)
